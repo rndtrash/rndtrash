@@ -1,6 +1,6 @@
 # hello
 
-i'm rndtrash a.k.a. shlakoblock a.k.a. Ivan Kuzmenko, 20 y/o CS student. love me hampter, love me programming, simple as
+i'm rndtrash a.k.a. shlakoblock a.k.a. Ivan Kuzmenko, 21 y/o CS student. love me hampter, love me programming, simple as
 
 learned to let go the pet projects, now i'm coping by saying that i work on what i find fun working on at the moment
 
